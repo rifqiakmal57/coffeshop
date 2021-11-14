@@ -1,0 +1,31 @@
+body {
+	background-image: url('https://www.cleanipedia.com/images/v2/eefbdb20df115be10bc47a0b7573ea9b-1800w-1200h.webp');
+	font-family: Brush Script MT;
+	
+}
+header {
+	background: #000000;
+	height: 60px;
+	width: 100%;
+	padding: 0px 1px 10px 1px;
+		
+}
+ .header-logo{
+ 	float: left;
+ 	font-size: 36px;
+ 	padding: 20px 40px;
+ 	color: #FFFFFF;
+ }
+ .header-nav li{
+ 	float: left;
+ 	padding: 35px 20px;
+ 	text-decoration: none;
+ }
+ a {
+ 	text-decoration: none;
+ 	color: #FFFFFF;
+ }
+ &:hover{
+ 	transition: 0,5 sec;
+ 	background-color: #000000;
+ }

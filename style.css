@@ -1,0 +1,42 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+a {
+	color: red;
+}
+header {
+	max-width: 100%;
+	height: 50px;
+	background-color: #333;
+	color: #fff;
+	line-height: 50px;
+	padding-left: 4%;
+}
+header ul li {
+	width: 10%;
+	height: 50px;
+	float: left;
+	list-style: none;
+
+}
+section {
+	width: 100%;
+	min-height: 400px;
+	background-color: #f9f9f9;
+}
+.box-login {
+	width: 30%;
+	height: 400px;
+	background-color: #FF7F50;
+	margin: 5% auto;
+	padding: 2%;
+}
+.box-login  form input  {
+	width: 100%;
+	height: 30px;
+	margin: 1% 0;
+	}
